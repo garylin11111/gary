@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() ,OnClickListener ,OnLongClickListener{
         if (v == txv) {
             txv.text = "文字短按"
         } else {
-            txv.text = "我是可愛狐狸"
+            txv.text = "可愛狐狸"
         }
     }
 
